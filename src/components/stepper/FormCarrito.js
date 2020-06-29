@@ -15,7 +15,8 @@ const FormCarrito = ({ onFormChange }) => {
 
   useEffect(() => {
     onFormChange(isValid)
-}, [isValid])
+}, [isValid, onFormChange])
+
 
   return (
     <>

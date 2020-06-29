@@ -17,6 +17,12 @@
   
 } */
 
+body{
+  overflow-x:hidden;
+  width: 100%;
+  /*NO BORREN ESTO PLIS*/
+}
+
 
 .rowFooter {
   position: relative;
