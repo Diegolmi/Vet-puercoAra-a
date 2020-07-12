@@ -4,6 +4,10 @@ import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import './App.css';
+import FormPage from './components/FormServicios';
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import About from './components/About/about';
 //importar react router 
 import {
   BrowserRouter as Router,
